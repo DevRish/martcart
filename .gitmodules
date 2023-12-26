@@ -1,6 +1,6 @@
 [submodule "martcart-frontend-react"]
 	path = martcart-frontend-react
 	url = https://github.com/DevRish/martcart-frontend-react.git
-[submodule "martcart-backend-ts"]
-	path = martcart-backend-ts
+[submodule "martcart-backend-express"]
+	path = martcart-backend-express
 	url = https://github.com/DevRish/martcart-backend-js.git
