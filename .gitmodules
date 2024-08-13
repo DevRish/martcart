@@ -4,3 +4,6 @@
 [submodule "martcart-backend-express"]
 	path = martcart-backend-express
 	url = https://github.com/DevRish/martcart-backend-js.git
+[submodule "martcart-backend-springboot"]
+	path = martcart-backend-springboot
+	url = https://github.com/DevRish/martcart-backend-springboot
