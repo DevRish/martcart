@@ -19,7 +19,9 @@ Visit and try out the application at: [https://martcartdevrish.netlify.app/](htt
 
 ## Tech Stack:
 
-**Frontend**: ReactJS <br/><br/>
-**Backend**: Multiple implementations
+**Frontend:** ReactJS <br/><br/>
+**Backend:** Multiple implementations
 - ExpressJS and TypeScript
 - SpringBoot and Java
+<br/><br/>
+**Database:** MongoDB
